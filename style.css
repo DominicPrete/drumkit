@@ -1,7 +1,8 @@
 html {
   font-size: 10px;
-  background: url('./background.jpg') bottom center;
-  background-size: cover;
+/*   background: url('./background.jpg') bottom center;
+  background-size: cover; */
+  background: red;
 }
 
 body,html {
